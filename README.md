@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="link_para_sua_logo" alt="Fyzz Tech Logo" width="160" />
+  <img src="https://i.postimg.cc/J4NWC1N5/LOGO.png" alt="Fyzz Tech Logo" width="160" />
   <h1>Fyzz Tech</h1>
   <p>🚀 Estudantes apaixonados por programação, explorando diferentes nichos e tecnologias.</p>
 </div>
