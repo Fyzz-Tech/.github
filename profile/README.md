@@ -42,10 +42,10 @@ Nosso objetivo é aprender, experimentar e desenvolver soluções inovadoras que
 ---
 
 ## 📂 Projetos em Desenvolvimento
-- **📱 Management System**  
-  Sistema de gerenciamento para uma loja de celulares, acessórios e serviços de assistência técnica.  
-  Foco em **controle de clientes, serviços e usuários**, com API estruturada e segura para administradores e funcionários.  
-  *(Em desenvolvimento — breve disponível publicamente)*
+- **🤖 Davince**
+  Chatbot de IA com a persona de Leonardo Da Vinci, focado em fornecer suporte técnico preciso e instantâneo.
+  Utiliza **RAG** para garantir respostas seguras, mantendo o **contexto da conversa** para uma experiência fluida.
+  *(Em desenvolvimento — demonstração disponível em breve)*
 
 ---
 
