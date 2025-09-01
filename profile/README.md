@@ -45,7 +45,7 @@ Nosso objetivo é aprender, experimentar e desenvolver soluções inovadoras que
 - **🤖 Davince**
   Chatbot de IA com a persona de Leonardo Da Vinci, focado em fornecer suporte técnico preciso e instantâneo.
   Utiliza **RAG** para garantir respostas seguras, mantendo o **contexto da conversa** para uma experiência fluida.
-  *(Em desenvolvimento — demonstração disponível em breve)*
+  [Davince](https://github.com/Fyzz-Tech/Davince)
 
 ---
 
