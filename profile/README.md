@@ -39,15 +39,6 @@ Nosso objetivo é aprender, experimentar e desenvolver soluções inovadoras que
 ![Graph Databases](https://img.shields.io/badge/Graph%20Databases-FF6600?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-FF4088?style=for-the-badge&logo=databricks&logoColor=white)
 
----
-
-## 📂 Projetos em Desenvolvimento
-- [**🤖 Davince**](https://github.com/Fyzz-Tech/Davince)
-  Chatbot de IA com a persona de Leonardo Da Vinci, focado em fornecer suporte técnico preciso e instantâneo.
-  Utiliza **RAG** para garantir respostas seguras, mantendo o **contexto da conversa** para uma experiência fluida.
-
----
-
 ## 🤝 Contribuindo
 Amamos colaborar com outros desenvolvedores e aprender juntos.  
 Se você tem ideias, melhorias ou sugestões, fique à vontade para abrir uma issue ou contribuir com nossos repositórios.
